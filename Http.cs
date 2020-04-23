@@ -6,7 +6,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lhn
+namespace LZZ
 {
     public class Http
     {
